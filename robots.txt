@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wahhidict.github.io/wahed-vip/sitemap.xml
